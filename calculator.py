@@ -17,4 +17,4 @@ def calculate(num1, operator, num2):
         result = 'Invalid operator'
         return result
 
-print(calculate(2, '/', 3))
+print(calculate(2, '/', 3)) # Here you can change the numbers and operator
